@@ -1,0 +1,7 @@
+sanic
+Sanic-Cors
+python-socketio
+sanic-jwt
+gunicorn
+pytest-sanic
+aiocassandra
